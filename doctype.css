@@ -1,0 +1,40 @@
+<style>
+/*navigation bar styling*/.menu-list{
+    max-width: 300px;
+    margin: auto;
+    height: 500px;
+    color: blueviolet;
+    background-color: green;
+    border-radius: 10px;
+}
+/*logo,navigation menu styling*/
+.geeks{
+    overflow: hidden;
+    background-color: #111 ;
+    position: relative;
+    
+} 
+/*styling navigation*/
+.geeks #menus{
+    display:none;
+}
+/*link specific stling*/.geeks a{
+    text-decoration:none ;
+    color:red;
+    padding: 14px 16px;
+    font-size: 16px;
+    display:block;
+}
+/*navigation toggle menu styling*/
+.geeks a.icon{
+    display:block;
+    position:absolute;
+    right:0;
+    top:0;
+}
+/*hover effect on navigation logo and menu*/
+.geeks a:hover{
+    background-color:#add;
+    color:black;
+}
+</style>

@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(141, 153, 72);
+}
+
+
+nav,a{
+    padding: 20px;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+a:hover{
+    color:yellow;
+    background-color: black;
+}
+footer{
+    background-color: blueviolet;
+}
+style{
+    text-align: center;
+    width: fit-content;
+    height: 200px;
+}
